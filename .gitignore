@@ -1,5 +1,5 @@
 .vercel
-node-modules
+node_modules
 uthao-firebase.json
 .env
 
